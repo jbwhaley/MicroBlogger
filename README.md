@@ -11,4 +11,4 @@ This script enables easy posting to Micro.blog on MacOS directly from Alfred. Se
 * Open an Alfred prompt, type in `mbauth ` (with a space), paste your API key into the prompt, and hit the return key. MicroBlogger is now authenticated.
 * Now you can just type `mb ` in an Alfred prompt, type your post, and hit return. There you go.
 
-If you run into any issues, fee free to contact me on Micro.blog at [@jbwhaley](https://micro.blog/jbwhaley)
+If you run into any issues, fee free to contact me on Micro.blog at [@jbwhaley](https://micro.blog/jbwhaley).
